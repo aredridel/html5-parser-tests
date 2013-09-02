@@ -4,5 +4,8 @@
   "description": "",
   "main": "index.js",
   "author": "Aria Stewart <aredridel@nbtsc.org>",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "domwalker": "~0.5.0"
+  }
 }
